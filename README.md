@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gabrielMvalu
 - 👀 I’m interested in AI, ML, Anthropology, Math, History, Philosophy, Physics
-- 🌱 I’m currently learning Xcode, Chialisp, Lisp, Quantum, Cryptography, Statistics
+- 🌱 Python, Java, C, Xcode, Chialisp, Lisp, Cryptography, Statistics
 - 💞️ I’m looking to collaborate on everything with a social impact
-- 📫 How to reach me marian-gabriel.valu@castemill.com
+- 📫 How to reach me? -->> marian-gabriel.valu@castemill.com
 
 <!---
 gabrielMvalu/gabrielMvalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
